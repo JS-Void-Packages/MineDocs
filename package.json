@@ -1,0 +1,26 @@
+{
+  "name": "minedocs",
+  "version": "1.0.0",
+  "description": "Create html documentations from json/html files",
+  "keywords": [
+    "documentation",
+    "docs",
+    "html",
+    "json"
+  ],
+  "homepage": "https://github.com/JS-Void-Packages/MineDocs#readme",
+  "bugs": {
+    "url": "https://github.com/JS-Void-Packages/MineDocs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Void-Packages/MineDocs.git"
+  },
+  "license": "MIT",
+  "author": "Mrthomas20121",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
